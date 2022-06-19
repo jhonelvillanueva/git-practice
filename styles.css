@@ -1,5 +1,9 @@
 body {
-  margin: auto;
+  font-size: 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
   background-color: aliceblue;
-  color: rgb(25, 17, 17);
+  color: #182d52;
 }
